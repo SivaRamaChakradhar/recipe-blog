@@ -28,7 +28,7 @@ A modern, performant recipe blog built with Next.js featuring internationalizati
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SivaRamaChakradhar/recipe-blog/
    cd recipe-blog
    ```
 
