@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:3000</loc>
+    <lastmod>2026-01-28T09:02:09.350Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/recipes</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/es</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/es/recipes</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/fr</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/fr/recipes</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/recipes/classic-spanish-paella</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes/classic-spanish-paella"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes/classic-spanish-paella"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes/classic-spanish-paella"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/es/recipes/classic-spanish-paella</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes/classic-spanish-paella"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes/classic-spanish-paella"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes/classic-spanish-paella"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/fr/recipes/classic-spanish-paella</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes/classic-spanish-paella"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes/classic-spanish-paella"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes/classic-spanish-paella"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/recipes/french-ratatouille</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes/french-ratatouille"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes/french-ratatouille"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes/french-ratatouille"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/es/recipes/french-ratatouille</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes/french-ratatouille"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes/french-ratatouille"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes/french-ratatouille"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/fr/recipes/french-ratatouille</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes/french-ratatouille"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes/french-ratatouille"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes/french-ratatouille"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/recipes/italian-margherita-pizza</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes/italian-margherita-pizza"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes/italian-margherita-pizza"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes/italian-margherita-pizza"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/es/recipes/italian-margherita-pizza</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes/italian-margherita-pizza"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes/italian-margherita-pizza"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes/italian-margherita-pizza"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/fr/recipes/italian-margherita-pizza</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes/italian-margherita-pizza"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes/italian-margherita-pizza"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes/italian-margherita-pizza"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/recipes/thai-green-curry</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes/thai-green-curry"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes/thai-green-curry"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes/thai-green-curry"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/es/recipes/thai-green-curry</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes/thai-green-curry"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes/thai-green-curry"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes/thai-green-curry"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/fr/recipes/thai-green-curry</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes/thai-green-curry"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes/thai-green-curry"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes/thai-green-curry"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/recipes/mexican-tacos-al-pastor</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes/mexican-tacos-al-pastor"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes/mexican-tacos-al-pastor"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes/mexican-tacos-al-pastor"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/es/recipes/mexican-tacos-al-pastor</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes/mexican-tacos-al-pastor"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes/mexican-tacos-al-pastor"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes/mexican-tacos-al-pastor"/>
+  </url>
+  <url>
+    <loc>http://localhost:3000/fr/recipes/mexican-tacos-al-pastor</loc>
+    <lastmod>2026-01-28T09:02:09.352Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/recipes/mexican-tacos-al-pastor"/>
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es/recipes/mexican-tacos-al-pastor"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr/recipes/mexican-tacos-al-pastor"/>
+  </url>
+</urlset>
